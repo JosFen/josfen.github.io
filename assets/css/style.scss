@@ -1,3 +1,9 @@
+---
+---
+
+@import "jekyll-theme-hacker";
+
+/* Custom overrides */
 .fixed-footer {
   position: fixed;
   bottom: 0;
@@ -5,5 +11,5 @@
   text-align: center;
   padding: 10px 0;
   font-weight: bold;
-  z-index: 1000; /* make sure it's on top */
+  z-index: 1000;
 }
